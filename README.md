@@ -19,6 +19,8 @@ $ `ls`
 
 $ `cd`
 
+$ `cd Calculator`
+
 $ `python cal.py`
 
 <h2> Terminal usage </h2>
