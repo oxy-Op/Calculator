@@ -11,16 +11,16 @@ $ `pkg install git`
 
 $`pkg install python`
 
-$ `git clone https://github.com/oxy-Op/Calculator
+$ `git clone https://github.com/oxy-Op/Calculator`
 
 $ `python cal.py`
 
 <h2> Terminal usage </h2>
 
-<p> Import From Github </p>
-<p> python cal.py </p>
+<p> <b>Import From Github </p>
+<p> <b>python cal.py </b> </p>
 
-          <strong>OR </strong>
+  
           
 <p><i> Simply Click On Run </i><p>
 
@@ -28,4 +28,4 @@ $ `python cal.py`
 Any Queries: 
 Contact Me : [Click](https://alphaoxyop.wordpress.com/contact/)
 
-#End
+# End
