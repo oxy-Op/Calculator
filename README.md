@@ -13,15 +13,23 @@ $`pkg install python`
 
 $ `git clone https://github.com/oxy-Op/Calculator`
 
+$ `cd`
+
+$ `ls`
+
+$ `cd`
+
 $ `python cal.py`
 
 <h2> Terminal usage </h2>
 
-<p> <b>Import From Github </p>
-<p> <b>python cal.py </b> </p>
+<p> <b> `Import From Github ` </p>
+  
+<p> <b> `python cal.py ` </b> </p>
 
   
-          
+
+
 <p><i> Simply Click On Run </i><p>
 
 
